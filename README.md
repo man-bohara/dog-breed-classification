@@ -26,3 +26,4 @@ In this project, I have built two models.
 2. Another one implemented using pre-trained network (vgg16).
 
 ## Training
+Its recommended to train this model on GPU as it takes long time to train this model on large images. You can use utilize GPU provided by AWS cloud.
